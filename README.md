@@ -1,5 +1,5 @@
 # Modern GUI Music Player
-Modern GUI Music Player using customtkinter python library. 
+Modern GUI Music Player using Customtkinter, Tkinter, and Pygame python library. 
 
 GUI contains these features:
 

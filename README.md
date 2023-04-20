@@ -21,6 +21,8 @@ GUI contains these features:
 
 * `Song Label`: - Displays the current song playing.
 
+![music_player](https://user-images.githubusercontent.com/71150400/233244287-a12fa2aa-5c95-4da0-99e8-e76ab703b61f.PNG)
+
 ## Prerequisites
 Make sure to keep up to date with Python latest version:
 ```
